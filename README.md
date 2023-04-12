@@ -1,3 +1,5 @@
+## Introduce
+This project is on progress depending on Django Ledger project
 ## Quick Start
 
 Django Ledger comes with a default CoA ready to use, or you could use your own. Make sure to select the appropriate
