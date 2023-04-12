@@ -1,0 +1,10 @@
+<footer class="footer">
+    <div class="content has-text-centered">
+        <p>
+            <strong>Contact</strong> with <a href="https://bit2world.github.io" target="_blank">CodeHorse</a> 
+        </p>
+        {% if user.is_superuser %}
+            <a href="/admin">Admin</a>
+        {% endif %}
+    </div>
+</footer>
